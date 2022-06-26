@@ -55,3 +55,5 @@ Available:
 All of those can be optionally combined with any combination of addins.
 * `4.4` to build from the 4.4 release branch instead of master.
 * `debug` to not strip debug symbols from the binaries. This increases the output size by about 250MB.
+
+this is a fork from this one https://github.com/joshuaword2alt/FFmpeg
